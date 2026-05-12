@@ -1,0 +1,13 @@
+# Ignore everything except what we need to build the image
+__pycache__
+*.pyc
+venv
+.venv
+.env
+data/*.pdf
+indexes/
+.git
+.gitignore
+docs/
+README.md
+*.zip
